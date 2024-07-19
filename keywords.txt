@@ -1,0 +1,37 @@
+###################################################
+# Syntax Coloring Map For BMV31K304
+###################################################
+
+###################################################
+# Datatypes (KEYWORD1)
+###################################################
+BMV31K304	KEYWORD1
+###################################################
+# Methods and Functions (KEYWORD2)
+###################################################
+begin	KEYWORD2
+setVolume	KEYWORD2
+playVoice	KEYWORD2
+playSentence	KEYWORD2
+playStop	KEYWORD2
+playPause	KEYWORD2
+playContinue	KEYWORD2
+playRepeat	KEYWORD2
+isPlaying	KEYWORD2
+setLED	KEYWORD2
+initAudioUpdate	KEYWORD2
+isUpdateBegin	KEYWORD2
+executeUpdate	KEYWORD2
+###################################################
+# Constants (LITERAL1)
+###################################################
+BMV31K304_LED_ON	LITERAL1
+BMV31K304_LED_OFF	LITERAL1
+BMV31K304_BUSY	LITERAL1
+BMV31K304_NOBUSY	LITERAL1
+BMV31K304_POWER_ENABLE	LITERAL1 
+BMV31K304_POWER_DISABLE	LITERAL1
+BMV31K304_UPDATE_BEGIN	LITERAL1
+BMV31K304_NO_KEY	LITERAL1
+BMV31K304_VOLUME_MAX	LITERAL1
+BMV31K304_VOLUME_MIN	LITERAL1	
